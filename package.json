@@ -1,0 +1,35 @@
+{
+  "name": "slugify-path",
+  "version": "1.0.0",
+  "description": "Slugify paths into cool permalinks, mostly for static site generation purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gmsecrieru/slugify-path.git"
+  },
+  "keywords": [
+    "slug",
+    "slugify",
+    "permalink",
+    "path"
+  ],
+  "author": {
+    "name": "George Secrieru",
+    "email": "george@secrieru.net"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gmsecrieru/slugify-path/issues"
+  },
+  "homepage": "https://github.com/gmsecrieru/slugify-path#readme",
+  "dependencies": {
+    "underscore.string": "^3.3.4"
+  },
+  "devDependencies": {
+    "babel": "^6.5.2",
+    "babel-preset-es2015": "^6.6.0"
+  }
+}
